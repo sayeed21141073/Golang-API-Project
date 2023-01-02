@@ -64,6 +64,9 @@ func main() {
 	// 	fmt.Println(err)
 	// 	return
 	// }
+	
+	/* commented codes are used to insert value on mysql table.
+	I commeneted because there will be double insertion while running the code*/
 
 	fmt.Println("Record inserted successfully")
 
